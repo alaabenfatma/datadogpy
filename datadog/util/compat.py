@@ -5,9 +5,7 @@
 """
 Imports for compatibility with Python 2, Python 3 and Google App Engine.
 """
-from functools import wraps
 import logging
-import socket
 import sys
 
 # Logging
