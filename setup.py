@@ -5,7 +5,6 @@
 from setuptools import setup
 
 from io import open
-import sys
 
 
 def get_readme_md_contents():
